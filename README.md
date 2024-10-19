@@ -33,16 +33,17 @@ Explore Inn is a user-friendly web application designed to help users search for
 To run this project locally, follow these steps:
 
 1. **Clone the repository**:
+   https://github.com/CodewithParas1/Explore-Inn.git
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
    cd Hotel-Simplified-master
    
-3. Install dependencies:
+4. Install dependencies:
    npm install
 
-4. Set up the environment variables: Create a .env file in the root directory and add the necessary environment variables like your MongoDB connection string:
+5. Set up the environment variables: Create a .env file in the root directory and add the necessary environment variables like your MongoDB connection string:
    DATABASE_URL=your-mongodb-url
 
-5. Start the development server:
+6. Start the development server:
    npm start    
    
